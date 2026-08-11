@@ -1,0 +1,2 @@
+# vishalGenAI
+Practice repository
